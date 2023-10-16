@@ -1,4 +1,6 @@
 # ATTIRO - Hotel Reservation CRM
+![Screenshot 2023-10-17 015423](https://github.com/dulminperera/ATTIRO/assets/88973886/8d3709bb-f567-4407-957e-b44b6ecd4b8d)
+![Screenshot (162)](https://github.com/dulminperera/ATTIRO/assets/88973886/790f3426-4e02-48b9-aeea-24ffe5982f40)
 
 ## Table of Contents
 
