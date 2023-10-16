@@ -43,15 +43,14 @@ Step 2: Install Composer Dependencies
 ```
 Navigate to the project directory and install the PHP dependencies using Composer:
 
-bash
-Copy code
+```bash
 composer install
+```
 Step 3: Create a .env File
 
 Create a copy of the .env.example file and name it .env. Update the database and other configuration settings in the .env file to match your environment.
 
 ```bash
-Copy code
 cp .env.example .env
 ```
 Step 4: Generate an Application Key
@@ -59,7 +58,6 @@ Step 4: Generate an Application Key
 Generate a new application key for your ATTIRO instance:
 
 ```bash
-Copy code
 php artisan key:generate
 ```
 Step 5: Run Database Migrations
@@ -67,7 +65,6 @@ Step 5: Run Database Migrations
 Run the database migrations to create the required tables in your MySQL database:
 
 ```bash
-Copy code
 php artisan migrate
 ```
 Step 6: Start the Development Server
@@ -75,7 +72,6 @@ Step 6: Start the Development Server
 You can start a development server using the following command:
 
 ```bash
-Copy code
 php artisan serve
 ```
 By default, the application will be available at http://localhost:8000.
