@@ -102,6 +102,7 @@ Please replace `[repository URL]`, `[License Type]`, and `[License Link]` with t
 
 
 ## Project Documentation
+[SSP Final.pdf](https://github.com/dulminperera/ATTIRO/files/12921556/SSP.Final.pdf)
 
 For comprehensive documentation about ATTIRO, please refer to the [Project Documentation Link] for detailed information and user guides.
 
